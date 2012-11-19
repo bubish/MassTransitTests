@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{AA70A8B1-0A5B-4C48-BF60-8D031B59537A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA70A8B1-0A5B-4C48-BF60-8D031B59537A}.Debug|x86.ActiveCfg = Debug|x86
+		{AA70A8B1-0A5B-4C48-BF60-8D031B59537A}.Debug|x86.Build.0 = Debug|x86
+		{AA70A8B1-0A5B-4C48-BF60-8D031B59537A}.Release|x86.ActiveCfg = Release|x86
+		{AA70A8B1-0A5B-4C48-BF60-8D031B59537A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
