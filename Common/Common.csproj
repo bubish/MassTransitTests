@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Messages\BackEndChange.cs" />
+    <Compile Include="Messages\FrontEndInteractionNoWrite.cs" />
     <Compile Include="Messages\FrontEndInteraction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
